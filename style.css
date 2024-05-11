@@ -156,7 +156,7 @@ img {
 @media (min-width: calc(50em + 4px)) {
 
     .header {
-        max-width: 62%;
+        max-width: 50%;
     }
 
     .header h1 {
@@ -164,11 +164,10 @@ img {
     }
 
     .header p {
-        font-size: 1rem;
+        font-size: 0.875rem;
     }
 
     .grid-container {
-        width: 100%;
         margin: 0 auto;
     }
 

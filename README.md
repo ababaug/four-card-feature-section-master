@@ -242,7 +242,7 @@ main {
 
 .grid-container {
   display: grid;
-  grid-template: repeat(2, 1fr) / repeat(auto-fit, minmax(20rem, 1fr));
+  grid-template: repeat(2, 1fr) / repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5em;
 }
 
@@ -288,24 +288,23 @@ img {
 
 @media (min-width: calc(50em + 4px)) {
   .header {
-    max-width: 62%;
+    max-width: 50%;
   }
 
   .header h1 {
-    font-size: 2.95rem;
+    font-size: 2rem;
   }
 
   .header p {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .grid-container {
-    width: 90%;
     margin: 0 auto;
   }
 
   .box p {
-    font-size: 0.875rem;
+    font-size: 0.8rem;
   }
 
   .box-1 {
