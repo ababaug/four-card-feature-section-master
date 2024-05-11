@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ababaug/product-preview-card-component-main]
+- Solution URL: [https://github.com/ababaug/four-card-feature-section-master]
 - Live Site URL: [https://ababaug.github.io/product-preview-card-component-main/]
 
 ## My process
